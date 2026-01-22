@@ -1,8 +1,10 @@
 Changelog
 ---------
 
-master
+v2.2.4
 ------
+(`#178 <https://github.com/OMS-NetZero/FAIR/pull/176>`_) Patch to ensure that only halogenated species affect ozone.
+
 (`#176 <https://github.com/OMS-NetZero/FAIR/pull/176>`_) Change source of external RCMIP datasets from Zenodo to Amazon AWS.
 
 v2.2.3
